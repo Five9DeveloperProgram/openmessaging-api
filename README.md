@@ -29,6 +29,19 @@ A local download named `open-messaging-api.yaml` is ignored by Git.
 Open Messaging requires a license and may incur consumption-based charges.
 Use synthetic customer information for demonstrations.
 
+## DISCLAIMER
+
+These repositories contain sample code which is **not an official Five9 resource**. They are intended solely for educational and illustrative purposes to demonstrate possible ways to interact with Five9 APIs.
+
+Under the MIT License:
+
+- These are **not** officially endorsed or supported software by Five9.
+- Any customizations, modifications, or deployments made with code shared here are done at your **own risk** and **sole responsibility**.
+- The code may not account for all use cases or meet specific requirements without further development.
+- Five9 assumes **no liability** and provides **no support** for issues arising from the use of this code.
+
+For production-ready tailored implementations, we strongly recommend working with Five9’s Professional Services and Technical Account Management teams.
+
 ## Setup
 
 1. Download and import the [JSON collection](./Open%20Messaging%20API.postman_collection.json)
